@@ -1,9 +1,9 @@
 # BANKING-ANALYTICS-DASHBOARD
 Developed an end-to-end data analytics solution to analyze loan portfolio performance, focusing on lending trends, credit risk, and borrower behavior. Utilized Excel for data cleaning, validation, and exploratory analysis; MySQL for data transformation, joins, and KPI calculations; and Tableau and Power BI for building advanced, interactive dashboards. Performed detailed analysis on loan issuance trends, credit grade risk distribution, funding gaps, borrower segmentation, and regional loan patterns. Identified key insights such as higher risk concentration in lower credit grades, better repayment behavior among verified borrowers, and seasonal variations in loan disbursement. Designed and developed user-friendly, interactive dashboards with filters and drill-down capabilities to enable dynamic data exploration and support business decision-making. Delivered actionable insights to improve credit risk management, optimize lending strategies, and enhance overall portfolio performance.
-Excel: Performed data cleaning, preprocessing, and exploratory data analysis using Pivot Tables, slicers, and dashboards to identify trends and insights.
-MySQL: Executed data transformation, joins, and aggregations to calculate KPIs and prepare structured datasets for analysis.
-Tableau: Built interactive dashboards and advanced visualizations to analyze trends, patterns, and business performance.
-Power BI: Developed executive dashboards using DAX, data modeling, and visual storytelling to deliver actionable business insights.
+# Excel: Performed data cleaning, preprocessing, and exploratory data analysis using Pivot Tables, slicers, and dashboards to identify trends and insights.
+# My SQL: Executed data transformation, joins, and aggregations to calculate KPIs and prepare structured datasets for analysis.
+# Tableau: Built interactive dashboards and advanced visualizations to analyze trends, patterns, and business performance.
+# Power BI: Developed executive dashboards using DAX, data modeling, and visual storytelling to deliver actionable business insights.
 # Project Objectives
 Analyze loan issuance trends over multiple years
 Identify credit risk based on loan grades and borrower profiles
@@ -20,7 +20,7 @@ Merged multiple datasets using a common ID
 Handled missing values and removed duplicates
 Standardized date formats and extracted year-wise data
 Created aggregated fields for loan amount, funded amount, and balances
-Validated data using SQL aggregate functions
+Validated data using My SQL aggregate functions
 # Key Dashboards & Analysis
 1. Loan Trends Analysis
 Year-wise loan growth shows consistent increase in lending demand
@@ -71,7 +71,7 @@ Combined multiple datasets using common ID
 Handled missing values
 Removed duplicates
 Standardized formats
-Data Transformation (SQL)
+Data Transformation (My SQL)
 3. Created KPIs using JOIN, GROUP BY
 Aggregated loan, payment, and balance metrics
 4. Data Visualization
@@ -97,22 +97,6 @@ This project showcases:
 End-to-end Data Analyst skillset
 Strong understanding of financial data
 Ability to convert data into business insights
-Hands-on experience with BI tools & SQL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hands-on experience with tools like Excel,Tableau,Power BI & My SQL
 # Conclusion
 The Bank Loan Analytics project provides a comprehensive view of loan portfolio performance by combining data engineering, analysis, and visualization. It highlights the importance of analytics in understanding financial risk and driving strategic growth.This project highlights how data analytics can be used to improve credit risk management, lending strategies, and decision-making in the financial domain.
