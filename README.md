@@ -87,8 +87,17 @@ Power BI → Executive dashboards
 🌍 State wise and month wise loan status
 
 🏠 Home ownership Vs last payment date stats
-
-
+# Dashboard Highlights
+1. $532M Revolving Balance
+2. $483M Total Payments
+3. 59% Verified Borrowers
+4. Interactive filters for Year, State, Grade
+# Portfolio Value
+This project showcases:
+End-to-end Data Analyst skillset
+Strong understanding of financial data
+Ability to convert data into business insights
+Hands-on experience with BI tools & SQL
 
 
 
