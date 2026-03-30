@@ -115,4 +115,4 @@ Hands-on experience with BI tools & SQL
 
 
 # Conclusion
-The Bank Loan Analytics project provides a comprehensive view of loan portfolio performance by combining data engineering, analysis, and visualization. It highlights the importance of analytics in understanding financial risk and driving strategic growth.
+The Bank Loan Analytics project provides a comprehensive view of loan portfolio performance by combining data engineering, analysis, and visualization. It highlights the importance of analytics in understanding financial risk and driving strategic growth.This project highlights how data analytics can be used to improve credit risk management, lending strategies, and decision-making in the financial domain.
