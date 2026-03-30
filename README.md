@@ -34,14 +34,23 @@ Loan activity varies across states, indicating geographic trends
 Renters show higher loan volume, indicating potential risk segment
 # Key Insights
 📌 Strong year-over-year portfolio growth
+
 📌 High risk concentration in lower credit grades
+
 📌 Significant number of non-verified loans
+
 📌 Seasonal spikes in loan disbursement
+
 📌 Borrower category impacts repayment behavior
+
 📌 Loan portfolio shows consistent growth over years
+
 📌 Higher risk observed in mid-to-low credit grades
+
 📌 Verified users show better repayment behavior
+
 📌 Loan distribution varies regionally and seasonally
+
 📌 Renters represent a higher-risk borrower segment
 # Business Recommendations
 Implement stricter verification for high-value loans
@@ -70,9 +79,13 @@ Tableau → Exploratory dashboards
 Power BI → Executive dashboards
 # Key Analysis Performed
 📈 Year wise loan amount Stats
+
 💳 Grade and sub grade wise revol_bal
+
 ✅ Total Payment for Verified Status Vs Total Payment for Non Verified Status
+
 🌍 State wise and month wise loan status
+
 🏠 Home ownership Vs last payment date stats
 
 
