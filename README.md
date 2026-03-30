@@ -1,9 +1,9 @@
 # BANKING-ANALYTICS-DASHBOARD
 Developed an end-to-end data analytics solution to analyze loan portfolio performance, focusing on lending trends, credit risk, and borrower behavior. Utilized Excel for data cleaning, validation, and exploratory analysis; MySQL for data transformation, joins, and KPI calculations; and Tableau and Power BI for building advanced, interactive dashboards. Performed detailed analysis on loan issuance trends, credit grade risk distribution, funding gaps, borrower segmentation, and regional loan patterns. Identified key insights such as higher risk concentration in lower credit grades, better repayment behavior among verified borrowers, and seasonal variations in loan disbursement. Designed and developed user-friendly, interactive dashboards with filters and drill-down capabilities to enable dynamic data exploration and support business decision-making. Delivered actionable insights to improve credit risk management, optimize lending strategies, and enhance overall portfolio performance.
-# Excel: Performed data cleaning, preprocessing, and exploratory data analysis using Pivot Tables, slicers, and dashboards to identify trends and insights.
-# My SQL: Executed data transformation, joins, and aggregations to calculate KPIs and prepare structured datasets for analysis.
-# Tableau: Built interactive dashboards and advanced visualizations to analyze trends, patterns, and business performance.
-# Power BI: Developed executive dashboards using DAX, data modeling, and visual storytelling to deliver actionable business insights.
+Excel: Performed data cleaning, preprocessing, and exploratory data analysis using Pivot Tables, slicers, and dashboards to identify trends and insights.
+My SQL: Executed data transformation, joins, and aggregations to calculate KPIs and prepare structured datasets for analysis.
+Tableau: Built interactive dashboards and advanced visualizations to analyze trends, patterns, and business performance.
+Power BI: Developed executive dashboards using DAX, data modeling, and visual storytelling to deliver actionable business insights.
 # Project Objectives
 Analyze loan issuance trends over multiple years
 Identify credit risk based on loan grades and borrower profiles
